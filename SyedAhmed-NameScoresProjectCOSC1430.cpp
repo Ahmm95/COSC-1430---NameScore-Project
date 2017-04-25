@@ -34,6 +34,7 @@ cout<<"The namescore for "<<word<<" is: "<<totalScore<<endl;
        counter++;
 }
    // outputs the final score
-   cout<<"Total sum of all name-scores int eh file is : "<<CalculatedFinalScore<<endl;
+   cout<<"Total sum of all name-scores is : "<<CalculatedFinalScore<<endl;
+   system("PAUSE");
 return 0;
 }
