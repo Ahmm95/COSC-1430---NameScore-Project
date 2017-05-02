@@ -19,7 +19,7 @@ int main()
 {
 int CalculatedFinalScore  = 0;
 
-std::ifstream infile("Names.txt");   //Opens the file 'names.txt'. 
+std::ifstream infile("names.txt");   //Opens the file 'names.txt'. 
 std::string line;  
 int counter = 1;
 // does the processing of each name in the input file .txt
